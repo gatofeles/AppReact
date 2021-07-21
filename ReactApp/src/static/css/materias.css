@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+.topico {
+  margin-right: 2rem;
+}
+
+body {
+  background-color: #efefef;
+}
+
+.materias {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.materias_top {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  font-family: "Quicksand";
+  background-color: linear-gradient(
+    to right top,
+    rgba(255, 255, 255, 50%),
+    rgba(255, 255, 255, 100%)
+  );
+  border-radius: 0.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  box-shadow: 3px 3px 10px #444444;
+}
+
+#materias_first {
+  background-color: #ffffff;
+  background: linear-gradient(
+    to right top,
+    rgba(255, 255, 255, 50%),
+    rgba(255, 255, 255, 100%)
+  );
+}
+
+.materias-inner {
+  display: flex;
+  background-color: #77a6f7;
+  background: linear-gradient(
+    to right top,
+    rgba(255, 255, 255, 30%),
+    rgba(255, 255, 255, 70%)
+  );
+  width: 80%;
+  border-radius: 10px;
+  font-weight: normal;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  padding: 1%;
+  box-shadow: 3px 3px 10px #444444;
+}
+
+.materias-inner:hover {
+  box-shadow: 5px 5px 10px #77a6f7;
+}
+
+.topico {
+  margin-left: 0.5rem;
+}
+
+#subject {
+  color: #ff3b3f;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.subIcon {
+  width: 5rem;
+}
+
+.progresso {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.progress {
+  width: 60%; /*Econtrar um jeito de isso renderizar dinamicamente*/
+  background-color: #77a6f7;
+  height: 1rem;
+  border-radius: 1rem;
+  box-shadow: 1px 1px 1px #444444;
+}
+
+.card1 {
+  display: flex;
+}
+
+.assunto {
+  color: #000000;
+}

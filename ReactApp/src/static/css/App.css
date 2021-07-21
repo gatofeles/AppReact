@@ -1,0 +1,126 @@
+#happy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #bfcde6;
+  border-radius: 2rem;
+  padding: 5%;
+  box-shadow: 1px 1px 4px;
+  z-index: 1;
+}
+
+#happy img {
+  width: 15rem;
+  margin-right: 70%;
+  margin-top: -70px;
+}
+
+#happy:hover {
+  cursor: pointer;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 1px 1px 4px;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+
+.toSubject {
+  color: #ffffff;
+}
+
+.box {
+  width: 50%;
+  margin-left: 10rem;
+  background: #49aec0;
+  padding: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #000000;
+  position: relative;
+  border-radius: 2rem;
+  border: 2px solid #49aec0;
+  z-index: 3;
+  box-shadow: 1px 1px 4px;
+}
+
+#together {
+  margin-right: 20rem;
+}
+
+#happy span {
+  margin-left: 20rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.carrossel-conteiner {
+  margin-top: 5%;
+  padding: 1rem;
+  border-radius: 2rem;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.carrossel {
+  margin: auto;
+  display: flex;
+  width: 30rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.carrosselSlider {
+  display: flex;
+  width: 100%;
+}
+
+.bunny-active {
+  width: 100%;
+  margin: auto;
+  border-radius: 0.5rem;
+}
+
+.bunny-hiden {
+  display: none;
+  transition: width 500ms ease;
+}
+
+.carrossel i {
+  opacity: 0.8;
+}
+
+#next {
+  position: absolute;
+  left: 80%;
+  bottom: 50%;
+  z-index: 10;
+  cursor: pointer;
+}
+
+#prev {
+  position: absolute;
+  right: 80%;
+  bottom: 50%;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.Itext {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.circles i {
+  font-size: 1rem;
+}

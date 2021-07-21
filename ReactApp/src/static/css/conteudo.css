@@ -1,0 +1,68 @@
+.cardShow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #d3e3fc;
+  margin-bottom: 4px;
+  border-radius: 1rem;
+  box-shadow: 1px 1px 4px #444444;
+  margin: 10px;
+  padding: 1px;
+  font-size: 1.3rem;
+}
+
+.answerBtn {
+  margin: 0.5rem;
+  margin-right: 0.3rem;
+  width: 5rem;
+  background-color: #49aec0;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.answerBtn:hover {
+  opacity: 1;
+  box-shadow: 1px 1px 4px;
+}
+
+.cardHide {
+  display: none;
+}
+
+.messageCardShow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #77a6f7;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  border-radius: 1rem;
+  box-shadow: 1px 1px 10px #444444;
+}
+
+.answer {
+  text-align: center;
+  width: 50%;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.contentForm {
+  background-color: #ffffff;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contentMessage {
+  margin-left: 0.5rem;
+}

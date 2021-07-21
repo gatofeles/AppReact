@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+.containerLogin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5rem;
+  background-color: #ffffff;
+  background: linear-gradient(
+    to right top,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.1)
+  );
+  padding: 3rem;
+  border-radius: 2rem;
+  box-shadow: 1px 1px 10px;
+}
+
+.buttons {
+  display: flex;
+}
+
+.title {
+  font-family: "Quicksand";
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#loginImage {
+  width: 20rem;
+}
+
+.submitBtn {
+  margin-top: 1rem;
+  margin-right: 0.3rem;
+  width: 5rem;
+  background-color: #49aec0;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.submitBtn:hover {
+  opacity: 1;
+  box-shadow: 1px 1px 4px;
+}
+
+.loginInput {
+  height: 1.5rem;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+@media only screen and (max-width: 600px) {
+  .loginInput {
+    height: 1.5rem;
+    border-radius: 5px;
+    border: 1px solid;
+  }
+
+  .submitBtn {
+    margin-top: 1rem;
+    margin-right: 0.3rem;
+    width: 5rem;
+    background-color: #49aec0;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 1;
+  }
+
+  .submitBtn:hover {
+    opacity: 1;
+  }
+}

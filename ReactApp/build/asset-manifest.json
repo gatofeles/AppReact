@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d78b260.chunk.css",
+    "main.js": "/static/js/main.02155327.chunk.js",
+    "main.js.map": "/static/js/main.02155327.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a01c5cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a01c5cf.js.map",
+    "static/js/2.cc33f231.chunk.js": "/static/js/2.cc33f231.chunk.js",
+    "static/js/2.cc33f231.chunk.js.map": "/static/js/2.cc33f231.chunk.js.map",
+    "static/js/3.0dcc45a5.chunk.js": "/static/js/3.0dcc45a5.chunk.js",
+    "static/js/3.0dcc45a5.chunk.js.map": "/static/js/3.0dcc45a5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1d78b260.chunk.css.map": "/static/css/main.1d78b260.chunk.css.map",
+    "static/js/2.cc33f231.chunk.js.LICENSE.txt": "/static/js/2.cc33f231.chunk.js.LICENSE.txt",
+    "static/media/Bioquímica.711cabe0.png": "/static/media/Bioquímica.711cabe0.png",
+    "static/media/Botânica.139c761c.png": "/static/media/Botânica.139c761c.png",
+    "static/media/Citologia.0172af9b.png": "/static/media/Citologia.0172af9b.png",
+    "static/media/Ecologia.1980c221.png": "/static/media/Ecologia.1980c221.png",
+    "static/media/Embriologia.246cbb13.png": "/static/media/Embriologia.246cbb13.png",
+    "static/media/Fisiologia.91a6b166.png": "/static/media/Fisiologia.91a6b166.png",
+    "static/media/Genética.54aa2d53.png": "/static/media/Genética.54aa2d53.png",
+    "static/media/História.41dc0943.png": "/static/media/História.41dc0943.png",
+    "static/media/Matemática.b7caf169.png": "/static/media/Matemática.b7caf169.png",
+    "static/media/Taxonomia.cc52b449.png": "/static/media/Taxonomia.cc52b449.png",
+    "static/media/calendariov3.d1565166.png": "/static/media/calendariov3.d1565166.png",
+    "static/media/coelhoLogin.60214f0b.png": "/static/media/coelhoLogin.60214f0b.png",
+    "static/media/examesv3.039cac8e.png": "/static/media/examesv3.039cac8e.png",
+    "static/media/ferramentas.453308c7.png": "/static/media/ferramentas.453308c7.png",
+    "static/media/gerenciador.2c9135de.png": "/static/media/gerenciador.2c9135de.png",
+    "static/media/homev3.d43b8902.png": "/static/media/homev3.d43b8902.png",
+    "static/media/materiasv3.59540ed4.png": "/static/media/materiasv3.59540ed4.png",
+    "static/media/metasv3.289ad9da.png": "/static/media/metasv3.289ad9da.png",
+    "static/media/simuladosv3.02666f63.png": "/static/media/simuladosv3.02666f63.png",
+    "static/media/student.1fbeb48a.jpg": "/static/media/student.1fbeb48a.jpg",
+    "static/media/welcomev2.9cc54cbd.png": "/static/media/welcomev2.9cc54cbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a01c5cf.js",
+    "static/js/2.cc33f231.chunk.js",
+    "static/css/main.1d78b260.chunk.css",
+    "static/js/main.02155327.chunk.js"
+  ]
+}
